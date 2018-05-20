@@ -1,4 +1,6 @@
-In this exercise you will check your understanding of simulated annealing by implementing the algorithm in a Jupyter notebook and using it to solve the Traveling Salesman Problem (TSP) between US state capitals.
+WORK IN PROGRESS!
+
+This exercise requires implementation of the simulated annealing algorithm in a Jupyter notebook. The algorithm is then used to solve a sample Traveling Salesman Problem (TSP).
 
 To launch the notebook, run the following command from a terminal with anaconda3 installed and on the application path:
 
